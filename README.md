@@ -1,20 +1,8 @@
 # Todo-App
-Build TodoApp with Html Css Js (Fe) and Javascript Json Server(Be)
-Cài Đặt
-Bước 1 : Tải Xuống và Cài Đặt
-bash
-Copy code
-git clone https://github.com/username/project.git
-cd project
-npm install
-Sử Dụng
-Chạy Ứng Dụng:
-bash
-Copy code
-npm start
-Mở Trình Duyệt:
-Mở trình duyệt web và nhập http://localhost:3000 vào thanh địa chỉ.
-Tạo Phiên Bản Production:
-bash
-Copy code
-npm run build
+Build TodoApp with Html Css Js (Fe) and Javascript Json Server (Be)
+### Cài Đặt
+### Tải xuống file zip hoặc git clone file về máy bằng đường dẫn https://github.com/21020401-PhamDucThanh/Todo-App.git
+### Back-end: 
+Chuột phải vào thư mục Json-server rồi mở một terminal . Sau đó gõ câu lệnh "npm start" để khởi động server . 
+### Front-end:
+Chuột phải vào thư mục login.html rồi chọn Open with live server ở dòng đầu tiên để bắt đầu sử dụng web . 
